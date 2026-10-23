@@ -1,0 +1,16 @@
+{
+  "name": "expo-freight-client-concept",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Expo Freight company website and separate proposed brand vision presentation.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "test": "node scripts/verify.mjs"
+  }
+}
